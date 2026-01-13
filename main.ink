@@ -21,7 +21,7 @@
 === chapter_1 ===
 // ... основной геймплей ...
 
-
+->  good_ending
 
 
 
@@ -32,7 +32,8 @@
 // ===================================
 === good_ending ===
 Вы победили!
--> END
+->  bad_ending
+
 
 === bad_ending ===
 #Location: Gladkovy2
