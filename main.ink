@@ -1,12 +1,14 @@
-Var has_key = false
-Var has_key1 = false
-Var has_key2 = false
-Var has_key3 = false
+
 
 // ===================================
 // 2. ТОЧКА ВХОДА И ОСНОВНОЙ СЮЖЕТ
 // ===================================
+Var has_key = false
+Var has_key1 = false
+Var has_key2 = false
+Var has_key3 = false
 -> intro
+
 === intro ===
 #Location: Ivan1
 
@@ -57,7 +59,7 @@ Var has_key3 = false
 =dvigatdalee
 #Location: Moneta
 Мирон: Ты получил свою  монетку. Так держать!
- ~ has_key = true
+// ~ has_key = true
 
 -> good_ending23
 =dizan
@@ -77,7 +79,7 @@ Var has_key3 = false
 ->  dizan
 + [Твоя заслуженная монетка] 
 Ефим: Ты получил свою монетку. Я очень рад. 
- ~ has_key = true
+// ~ has_key1 = true
 -> good_ending23
 
 
