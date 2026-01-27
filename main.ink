@@ -47,8 +47,8 @@
  * [шаг 4]
 Ефим:  Использованный пар остывает и становится водой
 ->  dvigat
-+ [Я все знаю, далее] -> dvigat.dalee
-=dvigat.dalee
++ [Я все знаю, далее] -> dvigatdalee
+=dvigatdalee
 
 -> bad_ending
 
