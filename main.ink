@@ -1,10 +1,9 @@
-// ===================================
-// 2. ТОЧКА ВХОДА И ОСНОВНОЙ СЮЖЕТ
-// ===================================
-Var has_key = false
-Var has_key1 = false
-Var has_key2 = false
-Var has_key3 = false
+
+VAR has_key = false
+VAR has_key1 = false
+VAR has_key2 = false
+VAR has_key3 = false
+
 -> intro
 
 === intro ===
