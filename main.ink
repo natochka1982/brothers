@@ -65,6 +65,7 @@ VAR has_key3 = false
 =dvigatdalee
 #Location: Moneta
 Мирон: Ты получил свою  монетку. Так держать!
+# clear
 // ~ has_key = true
 
 -> good_ending23
@@ -87,6 +88,7 @@ VAR has_key3 = false
 ->  dizan
 + [Твоя заслуженная монетка] 
 Ефим: Ты получил свою монетку. Я очень рад за тебя. 
+# clear
 // ~ has_key1 = true
 
 -> good_ending23
@@ -112,6 +114,7 @@ VAR has_key3 = false
 ->  sborka
 + [Вот заслуженная монетка] 
 Мирон: Поздравляю тебя с монеткой. Осталось чуть чуть
+# clear
 // ~ has_key2 = true
 -> good_ending23
 
@@ -135,6 +138,7 @@ VAR has_key3 = false
 ->  proezvot
 + [Вот твоя монетка] 
 Ефим: Поздравляю тебя с монеткой
+# clear
 // ~ has_key3 = true
 
 -> good_ending23
