@@ -46,7 +46,7 @@ VAR has_key3 = false
 + [Проверка монет] 
 {has_key and has_key1 and has_key2 and has_key3: 
     Ефим: Собраны все
-    -> good_ending23
+    -> good_ending
     - else: 
    Ефим: Собирай монетки
    -> good_ending23
